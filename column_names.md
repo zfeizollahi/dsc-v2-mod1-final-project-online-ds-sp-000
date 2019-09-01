@@ -11,6 +11,8 @@
 * **view** - Has been viewed
 * **condition** - How good the condition is ( Overall )
 * **grade** - overall grade given to the housing unit, based on King County grading system
+Classification by construction quality which refers to the types of materials used and the quality of workmanship. Buildings of better quality (higher grade) cost more to build per unit of measure and command higher value. (See Glossary in Area Report for Residential Building Grades in use by the King County Department of Assessments.) 
+
 * **sqft_above** - square footage of house apart from basement
 * **sqft_basement** - square footage of the basement
 * **yr_built** - Built Year
